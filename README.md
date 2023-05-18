@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3 align="center">I have a keen interest in exploring the fields of Embedded Systems, computer vision, and Data Science. These domains captivate me with their potential to create innovative solutions and unravel complex patterns from data.</h3>
+<h3 align="left">I'm passionate about delving into the realms of computer vision, data science, and embedded systems. These fields fascinate me with their potential to uncover insights, develop cutting-edge technology, and create meaningful impact.</h3>
 
 - 🔭 I’m currently working on **Convolutional Networks**
 
