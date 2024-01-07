@@ -2,9 +2,6 @@
 
 <h3 align="left">I'm passionate about delving into the realms of computer vision, data science, and embedded systems. These fields fascinate me with their potential to uncover insights, develop cutting-edge technology, and create meaningful impact.</h3>
 
-- 🔭 I’m currently working on **Convolutional Networks**
-
-- 🌱 I’m currently learning **ROS, TensorFlow**
 
 - 💬 Ask me about **computer vision, cloud computing**
 
