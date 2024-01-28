@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **computer vision, cloud computing**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
