@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-<h3 align="left">I'm passionate about delving into the realms of computer vision, data science, and embedded systems. These fields fascinate me with their potential to uncover insights, develop cutting-edge technology, and create meaningful impact.</h3>
-
-
-- 💬 Ask me about **computer vision, cloud computing**
-
+<h3 align="left">I'm passionate about delving into the realms of computer vision, and embedded systems. These fields fascinate me with their potential to uncover insights, develop cutting-edge technology, and create meaningful impact.</h3>
 
 <p align="left">
 </p>
