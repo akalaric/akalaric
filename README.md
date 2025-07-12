@@ -16,3 +16,8 @@
 ![grid snake animation](https://raw.githubusercontent.com/akalaric/akalaric/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![](https://komarev.com/ghpvc/?username=akalaric&label=)
 
+Running this in a shell will display the email address
+```sh
+printf "\x61\x6b\x61\x6c\x61\x72\x69\x63\x31\x40\x6f\x75\x74\x6c\x6f\x6f\x6b\x2e\x63\x6f\x6d\x0a"
+```
+
